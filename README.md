@@ -6,7 +6,7 @@ This repository provides access to datasets used in various research projects. A
 
 ## Usage
 
-Users are welcome to access, use, and build upon the data provided in this repository for research, educational, or other purposes.
+Users are welcome to access, use, and build upon the data provided in this repository for research, educational, or other purposes. **Anyone intending to use the data in this repository is requested to first reach out to the corresponding author** of the article in question  to discuss the intended use.
 
 ## Disclaimer
 
